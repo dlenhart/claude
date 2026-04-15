@@ -1,2 +1,2 @@
 # claude
-Various claud files and skills
+Various Claude files and skills
